@@ -3,7 +3,7 @@
     "SupportedClient": "patched",
     "SoftwareVersion": "3.104",
     "BootstrapperUrl": "",
-    "SoftwareUrl":"https://c6ff8eb7.solaraweb-alj.pages.dev/download/static/files/Solara.Dir.zip",
+    "SoftwareUrl":"",
     "VersionUrl":"https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/live",
     "ClientHash":"cd6b7d62f4bec231f8b7f219e2aea9896ab658d58e7d18dc708ab298fa83b587"
 }
