@@ -1,8 +1,8 @@
 {
     "BootstrapperVersion": "1.17",
-    "SupportedClient": "version-ad321ed0d27f48b2",
+    "SupportedClient": "patched",
     "SoftwareVersion": "3.104",
-    "BootstrapperUrl": "https://4c206720.solaraweb-alj.pages.dev/download/static/files/Bootstrapper.exe",
+    "BootstrapperUrl": "",
     "SoftwareUrl":"https://c6ff8eb7.solaraweb-alj.pages.dev/download/static/files/Solara.Dir.zip",
     "VersionUrl":"https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/live",
     "ClientHash":"cd6b7d62f4bec231f8b7f219e2aea9896ab658d58e7d18dc708ab298fa83b587"
