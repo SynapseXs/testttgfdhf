@@ -1,6 +1,6 @@
 {
     "BootstrapperVersion": "1.17",
-    "SupportedClient": "patched",
+    "SupportedClient": "",
     "SoftwareVersion": "3.104",
     "BootstrapperUrl": "",
     "SoftwareUrl":"",
